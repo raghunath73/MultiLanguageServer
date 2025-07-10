@@ -107,11 +107,11 @@ Runs at: `http://localhost:5003/js-api`
 
 ![Preview 1](https://github.com/raghunath73/MultiLanguageServer/blob/main/images/Screenshot1.png)
 
-![Preview 2](./images/Screenshot 2025-06-09 185858.png)
+![Preview 2](https://github.com/raghunath73/MultiLanguageServer/blob/main/images/Screenshot2.png)
 
-![Preview 3](./images/Screenshot 2025-06-09 185912.png)
+![Preview 3](https://github.com/raghunath73/MultiLanguageServer/blob/main/images/Screenshot3.png)
 
-![Preview 4](./images/Screenshot 2025-06-09 185928.png)
+![Preview 4](https://github.com/raghunath73/MultiLanguageServer/blob/main/images/Screenshot4.png)
 
 
 ---
