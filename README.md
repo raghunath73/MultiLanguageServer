@@ -105,7 +105,7 @@ Runs at: `http://localhost:5003/js-api`
 
 ### 📸 Preview
 
-![Preview 1](https://raw.githubusercontent.com/raghunath73/MultiLanguageServer/main/images/Screenshot1.png)
+![Preview 1](https://github.com/raghunath73/MultiLanguageServer/blob/main/images/Screenshot1.png)
 
 ![Preview 2](./images/Screenshot 2025-06-09 185858.png)
 
